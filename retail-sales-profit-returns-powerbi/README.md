@@ -12,6 +12,7 @@ A 7-page Power BI case study on a sample retail dataset. It separates returned o
 ![Location](screenshots/04_location.png)
 ![Shipping](screenshots/05_shipping.png)
 ![Segment](screenshots/06_segment.png)
+![Top products page](screenshots/07_top_products.png)
 
 ## Business problem
 
